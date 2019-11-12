@@ -1,0 +1,13 @@
+body {
+    background-color: red;
+}
+
+.svg-graphic {
+    width: 25%;
+}
+
+.svg-wrapper {
+    min-height: 75vh;
+    padding: 20px;
+    border: thin dashed white;
+}
